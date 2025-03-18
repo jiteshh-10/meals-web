@@ -5,6 +5,9 @@
 ## Overview
 Meals Web App is a comprehensive recipe discovery platform that allows users to explore, filter, and save recipes based on various criteria including meal categories, complexity, and dietary preferences. With detailed recipe information and a responsive design, this web application provides a seamless culinary exploration experience across all devices.
 
+## Live Demo
+Visit the live application: [Meals Web App](https://jiteshh-10.github.io/meals-web/)
+
 ## Features
 
 ### Recipe Discovery
@@ -95,9 +98,32 @@ src/
     └── helpers.js
 ```
 
-## Access
-https://jiteshh-10.github.io/meals-web/
+## Installation
 
+1. Clone this repository
+```bash
+git clone https://github.com/jiteshh-10/meals-web.git
+```
+
+2. Navigate to the project directory
+```bash
+cd meals-web
+```
+
+3. Install dependencies
+```bash
+npm install
+```
+
+4. Start the development server
+```bash
+npm start
+```
+
+5. Build for production
+```bash
+npm run build
+```
 
 ## Data Structure
 The application uses the following data structure for recipes:
@@ -147,4 +173,3 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
